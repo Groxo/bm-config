@@ -12,3 +12,5 @@ alias bmg='workon "$glue_env"; cd "$glue_path"'
 
 
 alias start='pserve development.ini --reload'
+
+alias gup='git pull --rebase'
